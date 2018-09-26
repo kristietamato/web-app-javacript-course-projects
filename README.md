@@ -4,4 +4,5 @@ Projects created via the direction of a JavaScript Course https://github.com/jon
 # Projects
 * Pig Game
 * Budgety
-* (ES6+)
+* ES6
+* Forkify
